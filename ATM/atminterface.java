@@ -25,10 +25,10 @@ public static void main(String[] args) {
 
 		  
 		      
-//		        //declare and initialize balance, withdraw, and deposit  
+		        //declare and initialize balance, withdraw, and deposit  
 		        
 		          
-//		        //create scanner class object to get choice of user  
+		        //create scanner class object to get choice of user  
 		       
 		int balance=5000,withdraw,deposite;
 		Scanner sc=new Scanner(System.in);
